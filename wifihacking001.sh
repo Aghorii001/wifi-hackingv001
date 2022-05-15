@@ -1213,7 +1213,7 @@ menuUpdate(){
 	echo "Choose an option and press ENTER:"
 	echo ""
 	echo ""
-	echo "1) Check For New Update"
+	echo "1" Check For New Update"
 	echo ""
 	echo "2) Apply New Update"
 	echo ""

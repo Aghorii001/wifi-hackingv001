@@ -339,7 +339,7 @@ setWindowTitle(){
 
 	currentTask="setWindowTitle"
 
-	title='echo -ne "\033]0;WiFi Hacker v2.0\007"'
+	title='echo -ne "\033]0;WiFihacking001\007"'
 
 	$title
 
@@ -439,7 +439,7 @@ setVariablesRequired(){
 	versionRemoteClean="00"
 	versionRemoteTemp="0.0"
 	newUpdateAvailable="0"
-	updateMaster=https://raw.githubusercontent.com/esc0rtd3w/wifi-hacker/master/wifi-hacker.sh
+	updateMaster=https://raw.githubusercontent/Aghorii001/wifi-hackingv001.git
 	updateTemp="/tmp/update-check.tmp"
 	updateChecked="0"
 	skipUpdate="0"
@@ -894,7 +894,7 @@ banner(){
 	clear
 	$blue
 	echo "---------------------    ****************************************************************    ----------------------"
-	echo "|  [M] Main Menu    |    * WiFi Hacker v$versionBase  /  esc0rtd3w 2019  /  github.com/esc0rtd3w *    | [X] Exit           |"
+	echo "|  [M] Main Menu    |    * WiFihacking001 $versionBase /Aghorii001/wifi-hackingv001.git *    | [X] Exit           |"
 	echo "---------------------    ****************************************************************    ----------------------"
 	$yellow
 	echo "-------------------------------------------------------------------------------------------------------------------"

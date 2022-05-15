@@ -1,4 +1,5 @@
-initMain(){
+initMain()
+{
 
 	#checkArgs
 
